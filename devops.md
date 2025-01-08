@@ -1,7 +1,3 @@
-
-
-Yes, I can help! Learning DevOps as a backend engineer is a great move as it complements your current skills and enhances your ability to deploy, manage, and scale applications. Here's a roadmap tailored for you as an absolute beginner:
-
 ---
 
 ### **1. Understand the Basics of DevOps**
