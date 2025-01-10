@@ -1,5 +1,3 @@
----
-
 ### **1. Understand the Basics of DevOps**
    - **What to Learn:**
      - What is DevOps? 
